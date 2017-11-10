@@ -150,10 +150,8 @@ switch ($portResult)
                                                     Test-NetConnection -Port $portEdit -ComputerName $hostName
         
                                                }
-                                       }
- 
-            
-            
+                                      }
+   
             }
 
            
